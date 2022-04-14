@@ -1,1 +1,1 @@
-cd ./shell/dist && python -m http.server
+cd ./pipes/dist && python -m http.server
