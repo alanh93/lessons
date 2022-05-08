@@ -1,1 +1,1 @@
-cd ./pointer/dist && python -m http.server
+cd ./structs/dist && python -m http.server
